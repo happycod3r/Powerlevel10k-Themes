@@ -4,6 +4,7 @@ colors here for easy referencing.
 ------------------------
 
 ### 200 - Magenta2
+### 190	- Yellow2 
 ### 46 - Green1
 ### 244	- Grey50
 ### 103 - LightSlateGrey
